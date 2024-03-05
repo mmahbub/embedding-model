@@ -1,1 +1,1 @@
-# embedding-models
+# finetuning embedding models for RAG
