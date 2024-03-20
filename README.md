@@ -1,1 +1,1 @@
-# codes for training and finetuning embedding models
+# codes for pre-training and finetuning embedding models
